@@ -3,7 +3,7 @@
 
 My name's Estevan Alexander, but you can call me Alexander if you like :slightly_smiling_face:. 
 
-I'm a Computer Engineering student at University of Brasília and I'm currently working as a web developer intern at SwitchDreams.
+I'm a Computer Engineering student at University of Brasília and I'm currently working as software developer at Stone.
 
 Here are some quick infos about me:
 - 🔭 I’m currently working on a shared shopping lists managing app called [Baggy](https://github.com/Baggy-App/baggy-backend "Please click me :)").
